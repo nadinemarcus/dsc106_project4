@@ -113,7 +113,7 @@
                         svg.append('text')
                             .attr('class', 'tooltip')
                             .attr('x', x(key) + x.bandwidth() / 2)
-                            .attr('y', y((nutrientValue / dailyValues[key]) * 750) - yOffset - 5 + (index * 15)) // Adjust y-coordinate for each line
+                            .attr('y', y((nutrientValue / dailyValues[key]) * 100) - yOffset - 50 + (index * 15)) // Adjust y-coordinate for each line
                             .attr('text-anchor', 'middle')
                             .attr('fill', 'black')
                             .text(line);
