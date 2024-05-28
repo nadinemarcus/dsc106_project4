@@ -10,6 +10,7 @@
   import Resources from "./Components/Resources.svelte";
   import ScrollSide from "./Components/ScrollSide.svelte";
   import FoodSearch from "./Components/FoodSearch.svelte";
+  import Heatmap from './Components/Heatmap.svelte';
 </script>
 
 <main>
@@ -24,6 +25,7 @@
 <Meta />
 <Title />
 <Intro />
+<Heatmap />
 <TextAndMathEquations />
 <ScrollSide />
 <LineChart />
