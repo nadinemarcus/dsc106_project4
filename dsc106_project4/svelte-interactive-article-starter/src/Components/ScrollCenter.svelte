@@ -70,10 +70,10 @@
     </div>
     <div class="charts-container">
       <div class="chart-one">
-        <img id="chart3" src="src/assets/images/macro1.jpeg" alt="Chart 3 Image" />
+        <img id="chart3" src="src/assets/macro1.jpeg" alt="Chart 3 Image" />
       </div>
       <div class="chart-two">
-        <img id="chart4" src="src/assets/images/macro2.jpeg" alt="Chart 4 Image" />
+        <img id="chart4" src="src/assets/macro2.jpeg" alt="Chart 4 Image" />
       </div>
     </div>
   </div>
